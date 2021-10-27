@@ -1,0 +1,42 @@
+body {
+  background: #F2F2F2;
+  color: LightSeaGreen;
+  font-family: 'Times New Roman'
+}
+
+h3 {
+  color: LightSeaGreen;
+  font-family: 'Times New Roman';
+  font-weight: bold
+}
+
+.img-container {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.box {
+  background-color: white;
+  padding: 25px;
+}
+
+.navbar-brand {
+  background: LightSeaGreen;
+  font-family: 'Times New Roman';
+  padding: 15px;
+  color: white
+}
+th {
+  color: LightSeaGreen
+}
+
+td {
+  color: LightSeaGreen
+}
