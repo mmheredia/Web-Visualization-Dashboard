@@ -1,4 +1,7 @@
 # Web Visualization Dashboard
+
+![Landing Page](images/LandingPage.jpg)
+
 ---
 This project consisted of creating a visualization dashboard website using visualization generated in a past project. In this project, individual pages for each plot have been created with a means to navigate between them. These pages consist of visualizations and their corresponding anaysis. The website consist of a landing page, a comparison page containing all plots, and a page where the data used to generate the plots can be viewed.
 
